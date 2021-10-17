@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class DependenciesManagement {
 
-	@Test(enabled = false)
+	@Test
 	public void highSchool() {
 		System.out.println("High School");
 	}
